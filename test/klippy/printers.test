@@ -5,6 +5,7 @@ GCODE move.gcode
 DICTIONARY atmega2560.dict
 CONFIG ../../config/example.cfg
 CONFIG ../../config/example-corexy.cfg
+CONFIG ../../config/example-corexz.cfg
 CONFIG ../../config/example-delta.cfg
 CONFIG ../../config/example-rotary-delta.cfg
 CONFIG ../../config/example-winch.cfg
@@ -28,6 +29,7 @@ CONFIG ../../config/printer-anycubic-kossel-plus-2017.cfg
 CONFIG ../../config/printer-creality-cr10s-2017.cfg
 CONFIG ../../config/printer-creality-cr20-2018.cfg
 CONFIG ../../config/printer-creality-cr20-pro-2019.cfg
+CONFIG ../../config/printer-creality-ender5plus-2019.cfg
 CONFIG ../../config/printer-lulzbot-mini1-2016.cfg
 CONFIG ../../config/printer-lulzbot-taz6-2017.cfg
 CONFIG ../../config/printer-lulzbot-taz6-dual-v3-2017.cfg
@@ -120,8 +122,10 @@ CONFIG ../../config/generic-bigtreetech-skr-e3-dip.cfg
 DICTIONARY stm32f103-serial.dict
 CONFIG ../../config/generic-fysetc-cheetah-v1.1.cfg
 CONFIG ../../config/generic-fysetc-cheetah-v1.2.cfg
+CONFIG ../../config/generic-mks-robin-e3.cfg
 CONFIG ../../config/generic-mks-robin-nano.cfg
 CONFIG ../../config/printer-alfawise-u30-2018.cfg
+CONFIG ../../config/printer-creality-ender3-v2-2020.cfg
 CONFIG ../../config/printer-twotrees-sapphire-pro-2020.cfg
 
 # Printers using the stm32f407
